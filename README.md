@@ -11,6 +11,7 @@ This batch script creates a desktop shortcut to run a FiveM server with selected
 - **Shortcut Creation:** Creates a desktop shortcut with the specified settings to quickly launch the FiveM server.
 
 ## Usage
+<img src="https://github.com/QUITFILE/FiveMServerSetup/blob/main/example.gif"/>
 
 1. **Download and Save:** Copy the script into a `.bat` file and save it.
 2. **Run the Script:** Double-click the `.bat` file to execute it.
@@ -51,6 +52,7 @@ This script is designed to facilitate launching FiveM servers with custom config
 - **การสร้างทางลัด:** สร้างทางลัดบนเดสก์ท็อปด้วยการตั้งค่าที่ระบุเพื่อเรียกใช้เซิร์ฟเวอร์ FiveM ได้อย่างรวดเร็ว
 
 ## การใช้งาน
+<img src="https://github.com/QUITFILE/FiveMServerSetup/blob/main/example.gif"/>
 
 1. **ดาวน์โหลดและบันทึก:** คัดลอกสคริปต์ลงในไฟล์ `.bat` และบันทึก
 2. **เรียกใช้สคริปต์:** ดับเบิลคลิกไฟล์ `.bat` เพื่อทำงาน
