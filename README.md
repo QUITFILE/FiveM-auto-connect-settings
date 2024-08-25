@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 
 This batch script creates a desktop shortcut to run a FiveM server with selected parameters. It allows users to configure settings such as file path, PureMode, game build, and IP/Port before creating the shortcut.
